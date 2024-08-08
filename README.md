@@ -1,6 +1,6 @@
 # CMP301 - Graphics Programming with Shaders - Final project
 
-## Module CMP203 - Graphics Programming with Shaders Description
+## Module CMP301 - Graphics Programming with Shaders Description
 Abertay University - 3rd year module
 
 ### Module Aim
